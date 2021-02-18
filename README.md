@@ -13,3 +13,8 @@ First it was Agile software development, now Agile management is remaking the wo
 
 ## Reasons why I like it
 This topic of this article is directly related to this course -- Agile Software Development. It is interesting to see that this method can also apply to the business side of a company. Espcially during COVID when everyone has to work remotely, Agile management allows employees to work on their own regardless where do they locate. 
+
+
+
+## Xianhui's command
+This is a very good article that introduces the agile devlopment. I found it really meaningful. 
